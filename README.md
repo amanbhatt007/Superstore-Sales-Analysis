@@ -22,7 +22,7 @@ To conduct a comprehensive Exploratory Data Analysis (EDA) on the Superstore Sal
 
 ## Process
 Step 1: Get the Raw Data 📥
-You started with the raw, messy Superstore Sales data contained in your CSV file (- <a href="https://github.com/amanbhatt007/Superstore-Sales-Analysis/blob/main/train.csv">Superstore Sales Dataset</a>). This file lists every single order line item.
+You started with the raw, messy Superstore Sales data contained in your CSV file ( <a href="https://github.com/amanbhatt007/Superstore-Sales-Analysis/blob/main/train.csv">Superstore Sales Dataset</a>). This file lists every single order line item.
 
 Step 2: Clean and Prepare 🧹
 You loaded the data and tidied it up. This involved getting rid of any unnecessary blank columns (Unnamed columns) and ensuring the key numbers, like the Sales column, were correctly recognized so they could be added together.
@@ -40,3 +40,7 @@ You sorted the calculated sales totals so the category with the most revenue app
 
 Step 6: Create the Picture (Visualize) 📊
 You took the ranked numbers and converted them into a bar chart. This visualization instantly and clearly shows which product category bar is the tallest.
+
+## Dashboard
+<img width="1593" height="733" alt="Project 1" src="https://github.com/user-attachments/assets/5ef2e084-1166-445e-8524-aa224881e4cc" />
+
